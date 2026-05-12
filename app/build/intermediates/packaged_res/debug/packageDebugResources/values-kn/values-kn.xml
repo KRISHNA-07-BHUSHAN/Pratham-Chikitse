@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ambulance_available">24/7 ಆಂಬುಲೆನ್ಸ್ ಲಭ್ಯ</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="donts_title">ಮಾಡಬಾರದವು</string>
+    <string name="dos_title">ಮಾಡಬೇಕಾದವು</string>
+    <string name="emergency_allergic_reaction">ಅಲರ್ಜಿ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="emergency_asthma_attack">ಆಸ್ತಮಾ ದಾಳಿ</string>
+    <string name="emergency_bleeding">ರಕ್ತಸ್ರಾವ</string>
+    <string name="emergency_burn">ಸುಟ್ಟ ಗಾಯ</string>
+    <string name="emergency_call">ತುರ್ತು ಸೇವೆಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="emergency_choking">ಉಸಿರುಗಟ್ಟಿಕೆ</string>
+    <string name="emergency_cpr">ಸಿಪಿಆರ್</string>
+    <string name="emergency_dog_bite">ನಾಯಿ ಕಚ್ಚು</string>
+    <string name="emergency_drowning">ಮುಳುಗುವಿಕೆ</string>
+    <string name="emergency_electric_shock">ವಿದ್ಯುತ್ ಶಾಕ್</string>
+    <string name="emergency_fainting">ಮೂರ್ಛೆ</string>
+    <string name="emergency_food_poisoning">ಆಹಾರ ವಿಷಬಾಧೆ</string>
+    <string name="emergency_fracture">ಎಲುಬು ಮುರಿತ</string>
+    <string name="emergency_heart_attack">ಹೃದಯಾಘಾತ</string>
+    <string name="emergency_heat_stroke">ಬಿಸಿಗಾಳಿ ಆಘಾತ</string>
+    <string name="emergency_insect_bite">ಹುಳು ಕಚ್ಚು</string>
+    <string name="emergency_nose_bleed">ಮೂಗಿನಿಂದ ರಕ್ತಸ್ರಾವ</string>
+    <string name="emergency_poisoning">ವಿಷ ಸೇವನೆ</string>
+    <string name="emergency_seizure">ಆಕಸ್ಮಿಕ ಆಘಾತ</string>
+    <string name="emergency_snake_bite">ಹಾವು ಕಚ್ಚು</string>
+    <string name="emergency_stroke">ಪಕ್ಷಾಘಾತ</string>
+    <string name="find_hospital">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಹುಡುಕಿ</string>
+    <string name="hospital_finder_subtitle">ಸ್ಥಳೀಯ ಮಾದರಿ ಮಾಹಿತಿ — ಹೋಗುವ ಮೊದಲು ಕರೆ ಮಾಡಿ</string>
+    <string name="hospital_finder_title">ಹತ್ತಿರದ ತುರ್ತು ಕೇಂದ್ರಗಳು</string>
+    <string name="national_emergency_numbers">ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಸಂಖ್ಯೆಗಳು</string>
+    <string name="nearby_centers">ನಿಮ್ಮ ಹತ್ತಿರದ ತುರ್ತು ಕೇಂದ್ರಗಳನ್ನು ನೋಡಿ</string>
+    <string name="nearby_hospitals">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು</string>
+    <string name="select_language">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="steps_title">ಹಂತ ಹಂತದ ಸೂಚನೆಗಳು</string>
+</resources>

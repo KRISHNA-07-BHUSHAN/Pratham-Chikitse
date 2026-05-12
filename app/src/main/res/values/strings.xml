@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Pratham Chikitse</string>
+    <string name="app_subtitle">Emergency First Aid Guide</string>
+
+    <!-- Banner -->
+    <string name="banner_title">In an Emergency, Stay Calm</string>
+    <string name="banner_subtitle">Select emergency type below</string>
+    <string name="ambulance">Ambulance</string>
+
+    <!-- Buttons -->
+    <string name="start_audio">🔊 Audio Mode — Listen to Instructions</string>
+    <string name="stop_audio">⏹ Stop Audio</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+
+    <!-- Language -->
+    <string name="select_language">Select Language</string>
+
+    <!-- Hospital -->
+    <string name="find_hospital">Find Nearest Hospital</string>
+    <string name="nearby_centers">View emergency centers near you</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="hospital_finder_title">Nearby Emergency Centers</string>
+    <string name="hospital_finder_subtitle">Simulated local data — call before going</string>
+    <string name="national_emergency_numbers">National Emergency Numbers</string>
+
+    <!-- Section Headers -->
+    <string name="steps_title">Step-by-Step Instructions</string>
+    <string name="dos_title">What To Do</string>
+    <string name="donts_title">What NOT To Do</string>
+    <string name="emergency_call">Call Emergency Services</string>
+    <string name="ambulance_available">Ambulance available 24/7</string>
+    <!-- Emergency Titles -->
+    <string name="emergency_snake_bite">Snake Bite</string>
+    <string name="emergency_burn">Burn</string>
+    <string name="emergency_heart_attack">Heart Attack</string>
+    <string name="emergency_choking">Choking</string>
+    <string name="emergency_fracture">Fracture</string>
+    <string name="emergency_bleeding">Bleeding</string>
+    <string name="emergency_electric_shock">Electric Shock</string>
+    <string name="emergency_seizure">Seizure</string>
+    <string name="emergency_poisoning">Poisoning</string>
+    <string name="emergency_drowning">Drowning</string>
+    <string name="emergency_heat_stroke">Heat Stroke</string>
+    <string name="emergency_dog_bite">Dog Bite</string>
+    <string name="emergency_cpr">CPR</string>
+    <string name="emergency_asthma_attack">Asthma Attack</string>
+    <string name="emergency_fainting">Fainting</string>
+    <string name="emergency_nose_bleed">Nose Bleed</string>
+    <string name="emergency_allergic_reaction">Allergic Reaction</string>
+    <string name="emergency_insect_bite">Insect Bite</string>
+    <string name="emergency_food_poisoning">Food Poisoning</string>
+    <string name="emergency_stroke">Stroke</string>
+</resources>

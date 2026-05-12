@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+                <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+                <string name="back">ಹಿಂದೆ</string>
+
+                <string name="select_language">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+
+                <string name="find_hospital">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಹುಡುಕಿ</string>
+                <string name="nearby_centers">ನಿಮ್ಮ ಹತ್ತಿರದ ತುರ್ತು ಕೇಂದ್ರಗಳನ್ನು ನೋಡಿ</string>
+                <string name="nearby_hospitals">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು</string>
+                <string name="hospital_finder_title">ಹತ್ತಿರದ ತುರ್ತು ಕೇಂದ್ರಗಳು</string>
+                <string name="hospital_finder_subtitle">ಸ್ಥಳೀಯ ಮಾದರಿ ಮಾಹಿತಿ — ಹೋಗುವ ಮೊದಲು ಕರೆ ಮಾಡಿ</string>
+                <string name="national_emergency_numbers">ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಸಂಖ್ಯೆಗಳು</string>
+
+</resources>

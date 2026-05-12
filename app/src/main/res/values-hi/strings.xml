@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="cancel">रद्द करें</string>
+        <string name="back">वापस</string>
+
+        <string name="select_language">भाषा चुनें</string>
+
+        <string name="find_hospital">निकटतम अस्पताल खोजें</string>
+        <string name="nearby_centers">अपने पास के आपातकालीन केंद्र देखें</string>
+        <string name="nearby_hospitals">नजदीकी अस्पताल</string>
+        <string name="hospital_finder_title">नजदीकी आपातकालीन केंद्र</string>
+        <string name="hospital_finder_subtitle">स्थानीय सिम्युलेटेड डेटा — जाने से पहले कॉल करें</string>
+        <string name="national_emergency_numbers">राष्ट्रीय आपातकालीन नंबर</string>
+
+    <string name="steps_title">चरण-दर-चरण निर्देश</string>
+    <string name="dos_title">क्या करें</string>
+    <string name="donts_title">क्या न करें</string>
+    <string name="emergency_call">आपातकालीन सेवा को कॉल करें</string>
+    <string name="ambulance_available">24/7 एम्बुलेंस उपलब्ध</string>
+
+
+</resources>

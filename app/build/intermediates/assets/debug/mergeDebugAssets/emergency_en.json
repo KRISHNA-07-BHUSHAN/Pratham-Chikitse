@@ -1,0 +1,282 @@
+{
+  "app_name": "Pratham Chikitse",
+  "app_subtitle": "Emergency First Aid Guide",
+  "banner_title": "Emergency Help",
+  "banner_subtitle": "Quick response saves lives",
+  "find_hospital": "Find Hospital",
+
+  "steps_title": "Step-by-Step Instructions",
+  "dos_title": "What To Do",
+  "donts_title": "What NOT To Do",
+
+  "language": "en",
+
+
+  "snake_bite": {
+    "titlekey": "Snake Bite",
+    "emoji": "🐍",
+    "color": "#2E7D32",
+    "steps": [
+      "Move the person away from the snake safely.",
+      "Keep the person calm and still",
+      "Call emergency medical services or go to the nearest hospital immediately",
+      "Keep the bitten body part below heart level if possible",
+      "Remove rings, watches, or tight clothing before swelling starts",
+      "Clean the wound gently with water if available",
+      "Immobilize the limb using a splint or cloth to reduce movement"
+    ],
+    "dos": [
+      "Keep calm",
+      "Keep limb still",
+      "Call 108",
+      "Reach hospital fast"
+    ],
+    "donts": [
+      "Do NOT cut wound",
+      "Do NOT suck venom",
+      "Do NOT use ice",
+      "do not catch the snake"
+    ]
+  },
+
+  "burn": {
+    "title": "Burn",
+    "emoji": "🔥",
+    "color": "#BF360C",
+    "steps": [
+      "Move the person away from the source of the burn.",
+      "Cool the burn under cool running water for 10–20 minutes.",
+      "Remove tight items like rings, watches, or tight clothing.",
+      "Cover the burn with a clean cloth or sterile bandage.",
+      "Keep the person warm and calm.",
+      "Seek medical help for severe or large burns"
+    ],
+    "dos": [
+      "Cool with water",
+      "Cover burn",
+      "Remove jewelry"
+    ],
+    "donts": [
+      "Do NOT use ice",
+      "Do NOT apply butter"
+    ]
+  },
+
+  "heart_attack": {
+    "title": "Heart Attack",
+    "emoji": "❤️",
+    "color": "#C62828",
+    "steps": [
+      "Call emergency medical services immediately.",
+      "Help the person sit down and stay calm.",
+      "Loosen tight clothing.",
+      "If the person is conscious, give aspirin only if advised and not allergic.",
+      "Monitor breathing and pulse.",
+      "If the person becomes unconscious and is not breathing, start CPR if trained."
+    ],
+    "dos": [
+      "Call 108",
+      "Keep calm",
+      "Give aspirin if allowed"
+    ],
+    "donts": [
+      "Do not leave the person alone.",
+      "Do not allow heavy movement or walking.",
+      "Do not give food or drinks.",
+      "Do not delay calling for medical help."
+    ]
+  },
+
+  "choking": {
+    "title": "Choking",
+    "emoji": "😮",
+    "color": "#4527A0",
+    "steps": [
+      "Ask if choking",
+      "Give back blows",
+      "Do Heimlich maneuver",
+      "Call 108 if not cleared",
+      "Start CPR if unconscious"
+    ],
+    "dos": [
+      "Act fast",
+      "Give back blows",
+      "Do Heimlich"
+    ],
+    "donts": [
+      "Do NOT give water",
+      "Do NOT slap randomly"
+    ]
+  },
+
+  "fracture": {
+    "title": "Fracture",
+    "emoji": "🦴",
+    "color": "#37474F",
+    "steps": [
+      "Do not move bone",
+      "Use splint",
+      "Apply ice",
+      "Support limb",
+      "Go to hospital"
+    ],
+    "dos": [
+      "Immobilize",
+      "Apply ice",
+      "Support limb"
+    ],
+    "donts": [
+      "Do NOT straighten bone",
+      "Do NOT move patient unnecessarily"
+    ]
+  },
+
+  "bleeding": {
+    "title": "Bleeding",
+    "emoji": "🩸",
+    "color": "#B71C1C",
+    "steps": [
+      "Apply pressure",
+      "Do not remove cloth",
+      "Elevate limb",
+      "Call 108",
+      "Use tourniquet if severe"
+    ],
+    "dos": [
+      "Apply pressure",
+      "Elevate limb"
+    ],
+    "donts": [
+      "Do NOT remove bandage",
+      "Do NOT stop pressure frequently"
+    ]
+  },
+
+  "electric_shock": {
+    "title": "Electric Shock",
+    "emoji": "⚡",
+    "color": "#F57F17",
+    "steps": [
+      "Switch off power",
+      "Do not touch victim",
+      "Use non-conductive object",
+      "Check breathing",
+      "Call 108",
+      "Start CPR if needed"
+    ],
+    "dos": [
+      "Turn off power",
+      "Call 108",
+      "Start CPR if needed"
+    ],
+    "donts": [
+      "Do NOT touch victim directly",
+      "Do NOT use metal objects"
+    ]
+  },
+
+  "seizure": {
+    "title": "Seizure",
+    "emoji": "🧠",
+    "color": "#6A1B9A",
+    "steps": [
+      "Clear area",
+      "Cushion head",
+      "Do not restrain",
+      "Turn sideways after seizure",
+      "Call 108 if >5 min"
+    ],
+    "dos": [
+      "Protect head",
+      "Clear space"
+    ],
+    "donts": [
+      "Do NOT put anything in mouth",
+      "Do NOT hold person"
+    ]
+  },
+
+  "poisoning": {
+    "title": "Poisoning",
+    "emoji": "☠️",
+    "color": "#1B5E20",
+    "steps": [
+      "Call 108",
+      "If swallowed poison\nDo NOT make them vomit\nDo NOT give food or alcohol\nIf conscious: rinse mouth with water\nGive small sips of water only if they are awake and not vomiting",
+      "If poison on skin\nRemove contaminated clothes\nWash skin with lots of running water for 15–20 minutes",
+      "If poison in eyes\nRinse eyes with clean running water for 15–20 minutes\nKeep eyelids open while rinsing",
+      "If inhaled (gas/fumes)\nMove person to fresh air immediately\nOpen windows and ventilate area\nAvoid entering toxic area yourself without protection"
+    ],
+    "dos": [
+      "Call emergency",
+      "Remove exposure"
+    ],
+    "donts": [
+      "Do NOT induce vomiting",
+      "Do NOT give food/water"
+    ]
+  },
+
+  "drowning": {
+    "title": "Drowning",
+    "emoji": "🌊",
+    "color": "#01579B",
+    "steps": [
+      "Rescue safely",
+      "Call 108",
+      "Give rescue breaths",
+      "Start CPR",
+      "Keep warm"
+    ],
+    "dos": [
+      "Call 108",
+      "Start CPR"
+    ],
+    "donts": [
+      "Do NOT jump in without safety",
+      "Do NOT assume recovery"
+    ]
+  },
+
+  "heat_stroke": {
+    "title": "Heat Stroke",
+    "emoji": "☀️",
+    "color": "#E65100",
+    "steps": [
+      "Move to shade",
+      "Cool body",
+      "Apply wet cloth",
+      "Give water if conscious",
+      "Call 108"
+    ],
+    "dos": [
+      "Cool body",
+      "Hydrate"
+    ],
+    "donts": [
+      "Do NOT give alcohol",
+      "Do NOT ignore symptoms"
+    ]
+  },
+
+  "dog_bite": {
+    "title": "Dog Bite",
+    "emoji": "🐕",
+    "color": "#4E342E",
+    "steps": [
+      "Wash wound 10–15 mins",
+      "Apply antiseptic",
+      "Go for rabies vaccine",
+      "Report incident",
+      "Do not ignore bite"
+    ],
+    "dos": [
+      "Wash wound",
+      "Get vaccine"
+    ],
+    "donts": [
+      "Do NOT ignore bite",
+      "Do NOT delay vaccine"
+    ]
+  }
+}
