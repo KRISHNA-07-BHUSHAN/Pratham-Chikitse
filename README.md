@@ -13,31 +13,85 @@
 ## 🗂️ Project Structure
 
 ```
-app/src/main/
-├── kotlin/com/prathamchikitse/
-│   ├── MainActivity.kt             # Entry point, language context switching
-│   ├── data/
-│   │   └── EmergencyRepository.kt  # All 20 emergency data + hospital data
-│   ├── model/
-│   │   └── Models.kt               # Emergency, Hospital, AppLanguage data classes
-│   ├── navigation/
-│   │   └── Navigation.kt           # NavHost, routes, screen composition
-│   ├── screens/
-│   │   ├── SplashScreen.kt         # Animated splash with app branding
-│   │   ├── HomeScreen.kt           # Grid of emergencies + language switcher
-│   │   ├── DetailScreen.kt         # Step-by-step guide + TTS audio mode
-│   │   └── HospitalScreen.kt       # Nearby hospitals + emergency numbers
-│   ├── ui/theme/
-│   │   ├── Theme.kt                # Material3 color scheme (emergency red)
-│   │   └── Typography.kt           # Accessible font sizes
-│   └── utils/
-│       ├── TtsManager.kt           # Android TextToSpeech wrapper
-│       └── LanguageUtils.kt        # Locale context helper
-└── res/
-    ├── values/strings.xml          # English strings
-    ├── values-hi/strings.xml       # Hindi strings
-    └── values-kn/strings.xml       # Kannada strings
-```
+PrathamChikitse
+│
+├── .gradle
+├── .idea
+├── .kotlin
+│
+├── app
+│   │
+│   ├── build
+│   │
+│   ├── src
+│   │   │
+│   │   └── main
+│   │       │
+│   │       ├── assets
+│   │       │   ├── emergency_en.json
+│   │       │   ├── emergency_hi.json
+│   │       │   └── emergency_kn.json
+│   │       │
+│   │       ├── kotlin
+│   │       │   └── com.prathamchikitse
+│   │       │       │
+│   │       │       ├── data
+│   │       │       │   └── EmergencyRepository.kt
+│   │       │       │
+│   │       │       ├── model
+│   │       │       │   ├── emergency.kt
+│   │       │       │   └── Models.kt
+│   │       │       │
+│   │       │       ├── navigation
+│   │       │       │   └── Navigation.kt
+│   │       │       │
+│   │       │       ├── screens
+│   │       │       │   ├── DetailScreen.kt
+│   │       │       │   ├── HomeScreen.kt
+│   │       │       │   ├── HospitalScreen.kt
+│   │       │       │   └── SplashScreen.kt
+│   │       │       │
+│   │       │       ├── ui.theme
+│   │       │       │   ├── Theme.kt
+│   │       │       │   └── Typography.kt
+│   │       │       │
+│   │       │       ├── utils
+│   │       │       │   ├── JsonLoader.kt
+│   │       │       │   ├── LanguageManager.kt
+│   │       │       │   ├── LanguageUtils.kt
+│   │       │       │   └── TtsManager.kt
+│   │       │       │
+│   │       │       └── MainActivity.kt
+│   │       │
+│   │       ├── res
+│   │       │   ├── drawable
+│   │       │   ├── mipmap-anydpi-v26
+│   │       │   ├── mipmap-hdpi
+│   │       │   ├── mipmap-mdpi
+│   │       │   ├── mipmap-xhdpi
+│   │       │   ├── mipmap-xxhdpi
+│   │       │   ├── mipmap-xxxhdpi
+│   │       │   ├── values
+│   │       │   ├── values-hi
+│   │       │   └── values-kn
+│   │       │
+│   │       ├── AndroidManifest.xml
+│   │       └── ic_launcher-playstore.png
+│   │
+│   └── build.gradle.kts
+│
+├── build
+├── gradle
+│
+├── .gitignore
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── local.properties
+├── README.md
+└── settings.gradle.kts
+...
 
 ---
 
