@@ -9,6 +9,7 @@
 **Pratham Chikitse** is a stress-friendly emergency healthcare companion designed for rural and urban users in India. It provides medically clear, step-by-step first aid guidance in **English, Hindi, and Kannada** — all **offline**.
 
 ---
+app-release.apk is a apk file which can be installed on android devices to use the app
 
 ## 🗂️ Project Structure
 
@@ -236,6 +237,7 @@ EmergencyRepository (Singleton data object)
 - [ ] Accessibility: TalkBack full support
 
 ---
+
 
 ## 📜 Medical Disclaimer
 
